@@ -1,0 +1,13 @@
+#test {
+	height: 470px;
+	background-image: url(/ECpage/JSP/img/bgimage.jpeg);
+	background-color:rgba(255,255,255,0.6);
+	background-blend-mode:lighten;
+	background-size: container;
+}
+
+.center {
+	text-align: center;
+	margin-top: 20px;
+}
+
